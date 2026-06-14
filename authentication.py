@@ -5,7 +5,7 @@ import time
 import mysql.connector
 
 app = Flask(__name__)
-app.secret_key = "change_this_to_a_random_secret"  # change for production
+app.secret_key = "my_random_key_#@$qwerty"  # change for production
 
 # --- Global variable as requested ---
 receiver_email = None  # will be set when user submits login form
