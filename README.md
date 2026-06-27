@@ -32,5 +32,5 @@ To ensure flight stability, the architecture strictly separates web server opera
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/yourusername/flying-car-telemetry.git](https://github.com/yourusername/flying-car-telemetry.git)
+   git clone [https://github.com/Owais-SciML/vihang]
    cd flying-car-telemetry
