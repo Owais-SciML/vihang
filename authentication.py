@@ -12,7 +12,7 @@ receiver_email = None  # will be set when user submits login form
 
 # --- SMTP sender credentials ---
 email = "hackkali1295@gmail.com"
-smtp_password = "sdbq syla dpib nhqa" 
+smtp_password = "sadbq sylba dpcib nhqad" 
 
 # --- MySQL Configuration ---
 db_config = {
